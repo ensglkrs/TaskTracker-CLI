@@ -1,0 +1,14 @@
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\bin\Debug\net9.0\TaskTracker.exe
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\bin\Debug\net9.0\TaskTracker.deps.json
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\bin\Debug\net9.0\TaskTracker.runtimeconfig.json
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\bin\Debug\net9.0\TaskTracker.dll
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\bin\Debug\net9.0\TaskTracker.pdb
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\obj\Debug\net9.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\obj\Debug\net9.0\TaskTracker.AssemblyInfoInputs.cache
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\obj\Debug\net9.0\TaskTracker.AssemblyInfo.cs
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\obj\Debug\net9.0\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\obj\Debug\net9.0\TaskTracker.dll
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\obj\Debug\net9.0\refint\TaskTracker.dll
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\obj\Debug\net9.0\TaskTracker.pdb
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\obj\Debug\net9.0\TaskTracker.genruntimeconfig.cache
+C:\Users\enes.gulkurusu\source\repos\TaskTracker\TaskTracker\obj\Debug\net9.0\ref\TaskTracker.dll
