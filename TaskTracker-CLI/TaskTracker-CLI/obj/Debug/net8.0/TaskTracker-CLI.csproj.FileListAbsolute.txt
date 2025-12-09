@@ -1,0 +1,14 @@
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\bin\Debug\net8.0\TaskTracker-CLI.exe
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\bin\Debug\net8.0\TaskTracker-CLI.deps.json
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\bin\Debug\net8.0\TaskTracker-CLI.runtimeconfig.json
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\bin\Debug\net8.0\TaskTracker-CLI.dll
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\bin\Debug\net8.0\TaskTracker-CLI.pdb
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\obj\Debug\net8.0\TaskTracker-CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\obj\Debug\net8.0\TaskTracker-CLI.AssemblyInfoInputs.cache
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\obj\Debug\net8.0\TaskTracker-CLI.AssemblyInfo.cs
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\obj\Debug\net8.0\TaskTracker-CLI.csproj.CoreCompileInputs.cache
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\obj\Debug\net8.0\TaskTracker-CLI.dll
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\obj\Debug\net8.0\refint\TaskTracker-CLI.dll
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\obj\Debug\net8.0\TaskTracker-CLI.pdb
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\obj\Debug\net8.0\TaskTracker-CLI.genruntimeconfig.cache
+C:\Users\enes.gulkurusu\source\repos\TaskTracker-CLI\TaskTracker-CLI\obj\Debug\net8.0\ref\TaskTracker-CLI.dll

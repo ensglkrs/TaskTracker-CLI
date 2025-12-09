@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Description": "shopping",
+    "TaskStatus": 0,
+    "CreatedAt": "2025-12-09T11:51:30.182227+03:00",
+    "UpdatedAt": "2025-12-09T11:51:30.1838869+03:00"
+  },
+  {
+    "Id": 2,
+    "Description": "cooking",
+    "TaskStatus": 1,
+    "CreatedAt": "2025-12-09T11:51:37.1335833+03:00",
+    "UpdatedAt": "2025-12-09T11:51:58.7775109+03:00"
+  },
+  {
+    "Id": 3,
+    "Description": "walking",
+    "TaskStatus": 2,
+    "CreatedAt": "2025-12-09T11:51:43.340316+03:00",
+    "UpdatedAt": "2025-12-09T11:52:05.6340065+03:00"
+  }
+]
